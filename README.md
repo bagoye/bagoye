@@ -9,7 +9,7 @@
 # 
 
 - 📧  Email : dltd0912@gmail.com
-- 📋  Blog : https://blog.naver.com/yiisuyeon
+- 📋  Blog : [https://blog.naver.com/yiisuyeon](https://yiisuyeon.tistory.com/)
 
 
  ## 💡 Once I've used 💡
