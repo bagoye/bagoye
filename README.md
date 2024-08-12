@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20SUYEON&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20SUYEON&fontSize=50)
 ### 안녕하세요! 프론트엔드 개발자 이수연입니다.
 
 유저에서 디벨로퍼가 되기 위해 끊임없이 노력하는 프론트엔드 개발자 이수연입니다.<br/>
